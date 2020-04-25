@@ -17,7 +17,12 @@ const Layout = ({ children }) => {
       >
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © Last built {
+            new Date().toLocaleDateString(
+              "en-US",
+              { year: 'numeric', month: 'long', day: 'numeric'}
+            )
+          } with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a>
         </footer>
