@@ -10,7 +10,7 @@ const NotFoundPage = () => (
       <SEO title="404: Not found" />
       <div class="four wide column"></div>
       <div class="eight wide column center aligned">
-        <img src={missing} height="300rem" width="300rem" />
+        <img src={missing} height="300rem" width="300rem" alt="404"/>
         <h3>Page Not Found!</h3>
       </div>
       <div class="four wide column"></div>

@@ -11,7 +11,7 @@ const ActivityRecognition = () => {
                 <h5>Activity Recognition</h5>
                 <Video 
                     videoSrcURL="https://www.youtube.com/embed/Iar7C7EKA88"
-                    videoTitle="Official Music Video on YouTube"
+                    videoTitle="Activity Recognition"
                 />
             </div>
             <div class="two wide column"></div>

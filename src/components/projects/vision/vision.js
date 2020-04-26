@@ -9,8 +9,11 @@ const Vision = () => {
         <>
             <div class="row">
                 <div class="two wide column"></div>
-                <div class="twelve wide column">
-                    <h3>Computer Vision | CS6476 | Spring 2020</h3>
+                <div class="three wide column">
+                    <h3>Computer Vision</h3>
+                </div>
+                <div class="nine wide column">
+                    <p>CS6476 | Spring 2020</p>
                 </div>
                 <div class="two wide column"></div>
             </div>
