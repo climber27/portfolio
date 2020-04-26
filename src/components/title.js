@@ -9,6 +9,7 @@ const Title = () => {
                 <div class="two wide column"></div>
                     <div class="twelve wide column left aligned">
                         <h1 class="ui header">David D'lima</h1>
+                        <p>M.S Computer Science | B.S Chemical Engineering | Passionate about building things through data</p>
                         <hr />
                     </div>
                 <div class="two wide column"></div>
