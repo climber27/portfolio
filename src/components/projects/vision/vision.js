@@ -1,4 +1,7 @@
 import React from "react"
+import ParticleFilter from "./particle_filter"
+import AugmentedReality from "./augmented_reality"
+import ActivityRecognition from "./activity_recognition"
 
 const Vision = () => {
 
@@ -11,6 +14,9 @@ const Vision = () => {
                 </div>
                 <div class="two wide column"></div>
             </div>
+            <ActivityRecognition />
+            <ParticleFilter />
+            <AugmentedReality />
         </>
     )
 }
