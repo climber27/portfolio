@@ -8,7 +8,7 @@ const ActivityRecognition = () => {
         <div class="row">
             <div class="two wide column"></div>
             <div class="twelve wide column">
-                <h5>Activity Recognition</h5>
+                <h5 class="ui header">Activity Recognition</h5>
                 <Video 
                     videoSrcURL="https://www.youtube.com/embed/Iar7C7EKA88"
                     videoTitle="Activity Recognition"

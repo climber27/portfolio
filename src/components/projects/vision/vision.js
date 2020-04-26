@@ -10,7 +10,7 @@ const Vision = () => {
             <div class="row">
                 <div class="two wide column"></div>
                 <div class="three wide column">
-                    <h3>Computer Vision</h3>
+                    <h3 class="ui header">Computer Vision</h3>
                 </div>
                 <div class="nine wide column">
                     <p>CS6476 | Spring 2020</p>

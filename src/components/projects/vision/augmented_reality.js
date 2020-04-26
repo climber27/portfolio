@@ -8,7 +8,7 @@ const AugmentedReality = () => {
         <div class="row">
             <div class="two wide column"></div>
             <div class="twelve wide column">
-                <h5>Augmented Reality</h5>
+                <h5 class="ui header">Augmented Reality</h5>
                 <Video 
                     videoSrcURL="https://www.youtube.com/embed/lGpyKP6fqcU"
                     videoTitle="Augmented Reality"

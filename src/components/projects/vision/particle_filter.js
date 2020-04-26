@@ -8,7 +8,7 @@ const ParticleFilter = () => {
         <div class="row">
             <div class="two wide column"></div>
             <div class="twelve wide column">
-                <h5>Particle Filter</h5>
+                <h5 class="ui header">Particle Filter</h5>
                 <Video 
                     videoSrcURL="https://www.youtube.com/embed/_x9aQKCTFsA"
                     videoTitle="Particle Filter"
