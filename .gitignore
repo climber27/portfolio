@@ -5,6 +5,7 @@
 *.jp2
 *.svg
 *.tiff
+*.gif
 
 # Logs
 logs
