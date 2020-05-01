@@ -1,4 +1,7 @@
 import React from "react"
+import linkedin from "../images/linkedin.svg"
+import envelope from "../images/envelope.svg"
+import github from "../images/github.svg"
 
 const Title = () => {
 
@@ -16,13 +19,25 @@ const Title = () => {
             </div>
             <div class="row">
                 <div class="two wide column"></div>
-                    <div class="four wide column center aligned">
-                        <p>Linkedin</p>
+                    <div class="two wide column left aligned">
+                        <a href="https://www.linkedin.com/in/davidrdlima/">
+                            <img src={linkedin} height="25rem" width="25rem" alt="cogwheel" />
+                        </a>
                     </div>
-                    <div class="four wide column center aligned">
-                        <p>david.dlima@tuta.io</p>
+                    <div class="two wide column left aligned">
+                        <a href="https://github.com/daviddlima">
+                            <img src={github} height="25rem" width="25rem" alt="cogwheel" />
+                        </a>
                     </div>
-                    <div class="four wide column center aligned">
+                    <div class="one wide column center aligned">
+                        <a href="mailto:dlima.david@gmail.com">
+                            <img src={envelope} height="25rem" width="25rem" alt="cogwheel" />
+                        </a>
+                    </div>
+                    <div class="three wide column left aligned">
+                        <p>dlima.david@gmail.com</p>
+                    </div>
+                    <div class="four wide column right aligned">
                         <p>
                             Last Updated {
                             new Date().toLocaleDateString(

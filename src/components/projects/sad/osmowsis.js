@@ -8,7 +8,7 @@ const OsMowSis = () => {
         <div class="row">
             <div class="two wide column"></div>
             <div class="five wide column">
-                <h3 class="ui header">Software Architechture & Design</h3>
+                <h4 class="ui header">Software Architechture & Design</h4>
             </div>
             <div class="seven wide column">
                 <p>CS6300 | Fall 2019</p>

@@ -10,11 +10,11 @@ const Projects = () => {
         <>
             <div class="row">
                 <div class="two wide column"></div>
-                <div class="twelve wide column">
-                    <h3 class=" ui horizontal divider header">
-                        <img src={cogwheel} height="10rem" width="10rem" alt="cogwheel" />
-                        Projects
-                    </h3>
+                <div class="two wide column">
+                    <h3>Projects</h3>
+                </div>
+                <div class="ten wide column">
+                    <img src={cogwheel} height="25rem" width="25rem" alt="cogwheel" />
                 </div>
                 <div class="two wide column"></div>
             </div>

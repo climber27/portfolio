@@ -9,7 +9,7 @@ const RL = () => {
         <div class="row">
             <div class="two wide column"></div>
             <div class="four wide column">
-                <h3 class="ui header">Reinforced Learning</h3>
+                <h4 class="ui header">Reinforced Learning</h4>
             </div>
             <div class="eight wide column">
                 <p>CS7642 | Fall 2019</p>
