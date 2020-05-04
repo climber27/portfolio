@@ -8,7 +8,6 @@ const Main = () => {
   
   return (
     <div class="ui container">
-      {/* <div class="ui internally celled grid"> */}
       <div class="ui grid">
         <Title />
         <About />
