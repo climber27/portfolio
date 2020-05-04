@@ -1,8 +1,6 @@
 import React from "react"
-import Vision from "./projects/vision/vision"
 import cogwheel from "../images/cogwheel.svg"
-import OsMowSis from "./projects/sad/osmowsis"
-import RL from "./projects/rl/rl"
+import Work from "./work"
 
 const Projects = () => {
 
@@ -10,17 +8,15 @@ const Projects = () => {
         <>
             <div class="row">
                 <div class="two wide column"></div>
-                <div class="two wide column">
-                    <h3>Projects</h3>
+                <div class="six wide column">
+                    <h3>Portfolio</h3>
                 </div>
-                <div class="ten wide column">
+                <div class="six wide right aligned column">
                     <img src={cogwheel} height="25rem" width="25rem" alt="cogwheel" />
                 </div>
                 <div class="two wide column"></div>
             </div>
-            <Vision />
-            <RL />
-            <OsMowSis />
+            <Work />
         </>
     )
 }

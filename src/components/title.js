@@ -34,10 +34,14 @@ const Title = () => {
                             <img src={envelope} height="25rem" width="25rem" alt="cogwheel" />
                         </a>
                     </div>
-                    <div class="three wide column left aligned">
+                    <div class="seven wide column left aligned">
                         <p>dlima.david@gmail.com</p>
                     </div>
-                    <div class="four wide column right aligned">
+                <div class="two wide column"></div>
+            </div>
+            <div class="row">
+                <div class="two wide column"></div>
+                    <div class="twelve wide column left aligned">
                         <p>
                             Last Updated {
                             new Date().toLocaleDateString(

@@ -2,8 +2,7 @@ import React from "react"
 
 import Title from "./title"
 import About from "./about"
-import Projects from  "./projects"
-import Footer from "./footer"
+import Portfolio from  "./portfolio"
 
 const Main = () => {
   
@@ -13,8 +12,7 @@ const Main = () => {
       <div class="ui grid">
         <Title />
         <About />
-        <Projects />
-        <Footer />
+        <Portfolio />
       </div>
     </div>
   )

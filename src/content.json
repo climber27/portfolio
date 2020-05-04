@@ -1,0 +1,73 @@
+{
+    "About Me": "I've always loved to build and experiment with things. In high school, Dr. Brad Homoelle was such a phenomenal physics and chemistry teacher that I ended up incorrectly picking chemical engineering. Nevertheless, I largely owe my ability to think critically to him (thank you!). Throughout every internship and most experiences at Ohio State, I increasingly wanted to express what I was learning in engineering through programming. Most of my summer internships were spent making some sort of app or simulation including trying to take an app called Kickflip to market with my friends. This path lead me to a software engineering role after graduation where I felt like I was missing academic experience that prevented me from becoming a better engineer. That feeling led me to Georgia Tech's OMSCS program where I'm about half way through.",
+    "sections": [
+        {
+            "name": "Computer Vision",
+            "info": "Georgia Institute of Technology | CS6476 | Spring 2020",
+            "subsections":[
+                {
+                    "name": "Activity Recognition",
+                    "video": true,
+                    "videoLink": "https://www.youtube.com/embed/Iar7C7EKA88",
+                    "videoTitle": "",
+                    "description": "This was my final project following a 2001 paper from Bobick and James. The technique here used motion history images (MHIs) and motion energy (MEIs) to capture the activity at each frame. From there the problem of where there activity was happening in the image (translation), at what angle (rotation), and size (scale) had to be accounted for. Hu Moments gave these invariants in seven phases that could be then fed to a discriminative classifier. I chose a random forest.",
+                    "sectionLink": "#ActivityRecognition",
+                    "seeMore": true,
+                    "seeMoreLink": "https://www.linkedin.com/pulse/activity-recognition-through-temporal-templates-david-d-lima"
+                },
+                {
+                    "name": "Augmented Reality",
+                    "video": true,
+                    "videoLink": "https://www.youtube.com/embed/lGpyKP6fqcU",
+                    "videoTitle": "",
+                    "description": "",
+                    "sectionLink": "#AugmentedReality",
+                    "seeMore": true,
+                    "seeMoreLink": "#"
+                },
+                {
+                    "name": "Particle Filter",
+                    "video": true,
+                    "videoLink": "https://www.youtube.com/embed/_x9aQKCTFsA",
+                    "videoTitle": "",
+                    "description": "",
+                    "sectionLink": "#ParticleFilter",
+                    "seeMore": true,
+                    "seeMoreLink": "https://medium.com/@daviddlima/tracking-with-a-particle-filter-55e5d6dae9d9"
+                }
+            ]
+        },
+        {
+            "name": "Reinforced Learning",
+            "info": "Georgia Institute of Technology | CS7642 | Fall 2019",
+            "subsections": [
+                {
+                    "name": "OpenAI Gym's Lunar Lander V2",
+                    "video": true,
+                    "videoLink": "https://www.youtube.com/embed/5UdSKHSxMfU",
+                    "videoTitle": "",
+                    "description": "",
+                    "sectionLink": "#LunarLander",
+                    "seeMore": true,
+                    "seeMoreLink": "https://medium.com/@daviddlima/tracking-with-a-particle-filter-55e5d6dae9d9"
+                }
+            ]
+        },
+        {
+            "name": "Software Architecture & Design",
+            "info": "Georgia Institute of Technology | CS6300 | Fall 2019",
+            "subsections": [
+                {
+                    "name": "Automated Lawnmower Simulation",
+                    "video": true,
+                    "videoLink": "https://www.youtube.com/embed/hC9bSNyrjgQ?start=247",
+                    "videoTitle": "OsMowSis",
+                    "description": "",
+                    "sectionLink": "#OsMowSis",
+                    "seeMore": false,
+                    "seeMoreLink": ""
+                }
+            ]
+        }
+    ]
+}
