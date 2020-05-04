@@ -31,7 +31,7 @@ const About = () => {
                             at Ohio State, I increasingly wanted to express what I was learning in engineering
                             through programming. Most of my summer internships were spent making some sort of app
                             or simulation including trying to take an app called Kickflip to market 
-                            with my friends. This path lead me to a software engineering role after graduation
+                            with my friends. This path led me to a software engineering role after graduation
                             where I felt like I was missing academic experience that prevented me from becoming
                             a better engineer. That feeling led me to 
                             <span>&#32;</span>

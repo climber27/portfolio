@@ -7,6 +7,10 @@
 *.tiff
 *.gif
 
+# data
+*.yaml
+*.json
+
 # Logs
 logs
 *.log
