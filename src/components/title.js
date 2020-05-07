@@ -30,12 +30,12 @@ const Title = () => {
                         </a>
                     </div>
                     <div class="one wide column center aligned">
-                        <a href="mailto:dlima.david@gmail.com">
+                        <a href="mailto:me@daviddlima.com">
                             <img src={envelope} height="25rem" width="25rem" alt="cogwheel" />
                         </a>
                     </div>
                     <div class="seven wide column left aligned">
-                        <p>dlima.david@gmail.com</p>
+                        <p>me@daviddlima.com</p>
                     </div>
                 <div class="two wide column"></div>
             </div>
