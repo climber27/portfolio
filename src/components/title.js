@@ -43,12 +43,7 @@ const Title = () => {
                 <div class="two wide column"></div>
                     <div class="twelve wide column left aligned">
                         <p>
-                            Last Updated {
-                            new Date().toLocaleDateString(
-                                "en-US",
-                                { year: 'numeric', month: 'long', day: 'numeric'}
-                            )
-                            }
+                            Last Updated May 7, 2020
                         </p>
                     </div>
                 <div class="two wide column"></div>

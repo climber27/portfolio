@@ -9,7 +9,6 @@
 
 # data
 *.yaml
-*.json
 
 # Logs
 logs
